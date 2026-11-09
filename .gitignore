@@ -1,0 +1,15 @@
+# Compilados
+bin/
+target/
+*.class
+
+# Metadatos de Eclipse
+.metadata/
+
+# Otros
+*.log
+*.jar
+*.war
+*.ear
+.DS_Store
+Thumbs.db
